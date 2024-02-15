@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\bin\Debug\DataEntryForm.exe.config
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\bin\Debug\DataEntryForm.exe
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\bin\Debug\DataEntryForm.pdb
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.login.resources
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.Properties.Resources.resources
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.exe
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.pdb
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.insert.resources
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.main.resources
+C:\Users\Hp\source\repos\DataEntryForm\DataEntryForm\obj\Debug\DataEntryForm.update.resources
